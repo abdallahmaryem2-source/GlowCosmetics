@@ -1,0 +1,23 @@
+# Logs and runtime files
+*.log
+*.cache
+
+# PHPStorm / IDE files
+.idea/
+.vscode/
+
+# Composer
+/vendor/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Uploads and generated images
+public/uploads/products/
+
+# Database exports
+*.sql
+
+# Environment files
+.env
