@@ -67,8 +67,8 @@ Modifiez si nécessaire selon votre configuration.
 
 ## 🔧 Comptes par défaut
 
-- Admin : `mariem / ameni@gmail.com`
-- Client : `ines / splinter@gmail.com`
+- Admin : `mariem / mariem@gmail.com`
+- Client : `ines / ines@gmail.com`
 
 ## 🛠 Fonctionnalités
 
